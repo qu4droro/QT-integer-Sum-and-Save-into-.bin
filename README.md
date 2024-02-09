@@ -2,3 +2,6 @@ A simple software using C++ language on QT that increases the desired value when
 
 More information at:
 https://github.com/qu4droro/QT-integer-Sum-and-Save-into-.bin/wiki
+
+Download as zip:
+https://github.com/qu4droro/QT-integer-Sum-and-Save-into-.bin/releases/tag/qt_simple_project
